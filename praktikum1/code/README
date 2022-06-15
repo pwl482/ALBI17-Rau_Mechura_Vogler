@@ -1,1 +1,13 @@
-plz read dis
+README for FrequentWordsVariants package
+
+[Requirements]
+    -files FrequentWordsVariants.java, FrequentWords2.java, FastFrequentwords.java
+        and FrequentWordsSort.java have to be in a package frequentwordsvariants
+    -JFreeChart Package for printing the charts:
+        -jcommon-1.*.jar
+        -jfreechart-1.*.jar
+        needs to be added to Libraries
+[Execution]
+    -FrequentWordsVariants.java contains the main method, the evaluation and 
+        the input is hardcoded at the minute
+    -just execute the main method in FrequentWordsVariants.java
